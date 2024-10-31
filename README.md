@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="25" height="25" />
+## Hi there! <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 I'm Himank, a versatile software engineer with broad experience in full-stack development, cross-platform mobile app development, and machine learning.
 
@@ -18,5 +18,7 @@ I'm Himank, a versatile software engineer with broad experience in full-stack de
 
 
 -----
-![Himank's GH Top Languages](https://github-readme-stats-green-seven-69.vercel.app/api/top-langs/?username=himankpathak&hide=CSS&layout=compact&theme=dracula&hide_border=true&border_radius=10)<br>
+![Himank's GH Top Languages](https://github-readme-stats-green-seven-69.vercel.app/api/top-langs/?username=himankpathak&hide=CSS&layout=compact&theme=dracula&hide_border=true&border_radius=10&custom_title=Most%20Used%20Languages%20on%20GH)
+> Note: This is only a metric of the languages my public code consists of and does not reflect my actual experience or skill level.
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=himankpathak.readme) [![wakatime](https://wakatime.com/badge/user/c1bc053f-8fd2-400d-b72e-626619ab4ae1.svg)](https://wakatime.com/@c1bc053f-8fd2-400d-b72e-626619ab4ae1)
