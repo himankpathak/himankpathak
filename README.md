@@ -7,7 +7,7 @@ I'm Himank, a versatile software engineer with broad experience in full-stack de
 - 🚀 I'm excited about using technology to solve real-world problems.
 - 🛠️ I've led teams, optimized systems, and built innovative solutions.
 - 🎓 I graduated with a Master of Science degree in Computer Science, achieving a perfect 4.0 GPA.
-- 🏆 I'm a 6-time Hackathon winner (recently: HackPalachia, BlossomHack, Solve for Safer India Hackathon).
+- 🏆 Proud 6-times Hackathon winner out of 9 total participations (recently: HackPalachia, BlossomHack).
 - 😸 I love cats!
 
 
