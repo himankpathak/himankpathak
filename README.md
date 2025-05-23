@@ -2,7 +2,7 @@
 
 I'm Himank, a versatile software engineer with broad experience in full-stack development, cross-platform mobile app development, and machine learning.
 
-- **💻 Currently seeking a challenging full-time opportunity.**
+- 💻 Currently working at Reworkd, solving challenging web data extraction problems.
 - 🎯 I craft enduring solutions through maintainable code, taking full ownership of features from inception to their entire lifecycle.
 - 🚀 I'm excited about using technology to solve real-world problems.
 - 🛠️ I've led teams, optimized systems, and built innovative solutions.
